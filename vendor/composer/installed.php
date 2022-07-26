@@ -1,9 +1,9 @@
 <?php return array(
     'root' => array(
-        'name' => 'wesleypenachia/ecommerce',
-        'pretty_version' => '1.0.0+no-version-set',
-        'version' => '1.0.0.0',
-        'reference' => NULL,
+        'name' => 'wesleypenachia/ecommerce-php',
+        'pretty_version' => 'dev-main',
+        'version' => 'dev-main',
+        'reference' => 'bdc3c6773810f69660b0b02911fa256014951ee3',
         'type' => 'library',
         'install_path' => __DIR__ . '/../../',
         'aliases' => array(),
@@ -37,10 +37,10 @@
             'aliases' => array(),
             'dev_requirement' => false,
         ),
-        'wesleypenachia/ecommerce' => array(
-            'pretty_version' => '1.0.0+no-version-set',
-            'version' => '1.0.0.0',
-            'reference' => NULL,
+        'wesleypenachia/ecommerce-php' => array(
+            'pretty_version' => 'dev-main',
+            'version' => 'dev-main',
+            'reference' => 'bdc3c6773810f69660b0b02911fa256014951ee3',
             'type' => 'library',
             'install_path' => __DIR__ . '/../../',
             'aliases' => array(),
